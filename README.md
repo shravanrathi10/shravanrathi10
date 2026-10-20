@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**shravanrathi10/shravanrathi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Shravan! 👋
 
-Here are some ideas to get you started:
+🎓 Information Technology Student  
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an IT student passionate about programming, problem-solving, and building projects to strengthen my technical skills.
+
+### 🚀 What I'm Working On
+- Practicing Data Structures and Algorithms using C++
+- Learning Java and Object-Oriented Programming
+- Exploring Python, Pandas, and Exploratory Data Analysis
+- Building projects and preparing for software internships
